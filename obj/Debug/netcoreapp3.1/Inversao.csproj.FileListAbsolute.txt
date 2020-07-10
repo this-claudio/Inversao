@@ -1,0 +1,13 @@
+C:\Users\admlocal\Desktop\Linguagens e Projetos\Projetos\Inversao\bin\Debug\netcoreapp3.1\Inversao.exe
+C:\Users\admlocal\Desktop\Linguagens e Projetos\Projetos\Inversao\bin\Debug\netcoreapp3.1\Inversao.deps.json
+C:\Users\admlocal\Desktop\Linguagens e Projetos\Projetos\Inversao\bin\Debug\netcoreapp3.1\Inversao.runtimeconfig.json
+C:\Users\admlocal\Desktop\Linguagens e Projetos\Projetos\Inversao\bin\Debug\netcoreapp3.1\Inversao.runtimeconfig.dev.json
+C:\Users\admlocal\Desktop\Linguagens e Projetos\Projetos\Inversao\bin\Debug\netcoreapp3.1\Inversao.dll
+C:\Users\admlocal\Desktop\Linguagens e Projetos\Projetos\Inversao\bin\Debug\netcoreapp3.1\Inversao.pdb
+C:\Users\admlocal\Desktop\Linguagens e Projetos\Projetos\Inversao\obj\Debug\netcoreapp3.1\Inversao.csprojAssemblyReference.cache
+C:\Users\admlocal\Desktop\Linguagens e Projetos\Projetos\Inversao\obj\Debug\netcoreapp3.1\Inversao.AssemblyInfoInputs.cache
+C:\Users\admlocal\Desktop\Linguagens e Projetos\Projetos\Inversao\obj\Debug\netcoreapp3.1\Inversao.AssemblyInfo.cs
+C:\Users\admlocal\Desktop\Linguagens e Projetos\Projetos\Inversao\obj\Debug\netcoreapp3.1\Inversao.csproj.CoreCompileInputs.cache
+C:\Users\admlocal\Desktop\Linguagens e Projetos\Projetos\Inversao\obj\Debug\netcoreapp3.1\Inversao.dll
+C:\Users\admlocal\Desktop\Linguagens e Projetos\Projetos\Inversao\obj\Debug\netcoreapp3.1\Inversao.pdb
+C:\Users\admlocal\Desktop\Linguagens e Projetos\Projetos\Inversao\obj\Debug\netcoreapp3.1\Inversao.genruntimeconfig.cache
