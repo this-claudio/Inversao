@@ -7,7 +7,9 @@ namespace ComplexoCalcula
     
     public class Calcula
     {
-        
+        ///<summary>Função que soma dois objetos complexos</summary>
+        ///<param name="num1">recebe o valor do primeiro numero(objeto) complexo</param>
+        ///<param name="num2">recebe o valor do segundo numero(objeto) complexo</param>
         static public void Somar(Complexo num1, Complexo num2)
         {
             double resul_real = num1._real + num2._real; // calcula a parte real resultante
