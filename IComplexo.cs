@@ -16,16 +16,19 @@ namespace ComplexoDefinicao
 
         public Complexo(double r, double i, double m, double a, bool rad)
         {
-            if(m != 0 && a != 0)SetPolar(m,a,rad);
-            else if (r != 0 && i != 0)SetRetangular(r, i);
-            else Console.WriteLine("Voce tem que passar algum parametro!");
+            if(m != 0 || a != 0)SetPolar(m,a,rad);
+            else if (r != 0 || i != 0)SetRetangular(r, i);
+            else Console.WriteLine("Voce tem que passar algum pelo menos um parametro!\nPara valor = zero deixe em branco");
         }
         public void SetRetangular(double r, double i) // atribui valores retangulares a um objeto complexo
         {
             this._real = r; // atribui o valor da parte real
             this._imag = i; // atribui o valor da parte imaginaria
             this._modulo = Math.Sqrt(Math.Pow(r,2)+Math.Pow(i,2));
-            this._angulo = (Math.Atan(i/r))*57.29;  // calcula o angulo e converte de radianos para graus (180/pi)
+            //=========== caso o divisor seja 0
+            if(this._real == 0)this._angulo = (Math.Atan(i/0.0000000001))*57.29; // calcula o angulo e converte de radianos para graus (180/pi)
+            else this._angulo = (Math.Atan(i/r))*57.29;  // calcula o angulo e converte de radianos para graus (180/pi)
+            //===========
             if(r<0)_angulo = 180 + _angulo; // ajusta o quadrante
             
             Console.WriteLine("Numero Criado:\n"+"Retangular: "+r+" +("+i+"i)\n"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admlocal\\Desktop\\Linguagens e Projetos\\Projetos\\Inversao\\Inversao.csproj": {}
+    "C:\\Users\\admlocal\\Desktop\\Linguagens e Projetos\\Projetos\\C#\\Inversao\\Inversao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admlocal\\Desktop\\Linguagens e Projetos\\Projetos\\Inversao\\Inversao.csproj": {
+    "C:\\Users\\admlocal\\Desktop\\Linguagens e Projetos\\Projetos\\C#\\Inversao\\Inversao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admlocal\\Desktop\\Linguagens e Projetos\\Projetos\\Inversao\\Inversao.csproj",
+        "projectUniqueName": "C:\\Users\\admlocal\\Desktop\\Linguagens e Projetos\\Projetos\\C#\\Inversao\\Inversao.csproj",
         "projectName": "Inversao",
-        "projectPath": "C:\\Users\\admlocal\\Desktop\\Linguagens e Projetos\\Projetos\\Inversao\\Inversao.csproj",
+        "projectPath": "C:\\Users\\admlocal\\Desktop\\Linguagens e Projetos\\Projetos\\C#\\Inversao\\Inversao.csproj",
         "packagesPath": "C:\\Users\\admlocal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admlocal\\Desktop\\Linguagens e Projetos\\Projetos\\Inversao\\obj\\",
+        "outputPath": "C:\\Users\\admlocal\\Desktop\\Linguagens e Projetos\\Projetos\\C#\\Inversao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
